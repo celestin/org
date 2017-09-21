@@ -4,7 +4,8 @@
 
 ### Markdown
 
-```Syntax highlighted code block
+```
+Syntax highlighted code block
 
 # Header 1
 ## Header 2
