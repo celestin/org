@@ -25,6 +25,6 @@ Syntax highlighted code block
 
 try  ```code block```
 
- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [![Throughput Graph](http://graphs.waffle.io/celestin/org/throughput.svg)](https://waffle.io/celestin/org/metrics)
