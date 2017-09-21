@@ -21,4 +21,6 @@
 [Link](url) and ![Image](src)
 ```
 
+try  ```code block```
+
  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
